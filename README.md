@@ -1,12 +1,10 @@
-Uebung7-
-========
 #ReadMe
 1. Informatik
-* Übung 7
-* Aufgabe 2
+    * Übung 7
+    * Aufgabe 2
 2. Werkzeuge der Informatik
-* GitHub
-* html
+    * GitHub
+    * html
 
 | Uni | Fach | Kanton |
 |:------|:----:| --------:|
