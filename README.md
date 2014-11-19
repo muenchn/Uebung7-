@@ -1,16 +1,16 @@
-#ReadMe
+#ReadMe Übung 7
 1. Informatik
-    * Übung 7
-    * Aufgabe 2
 2. Werkzeuge der Informatik
-    * GitHub
-    * html
+* Übung 7
+* Aufgabe 2 
+* GitHub
+* Markdown
 
-| Uni | Fach | Kanton |
+| Hier könnte auch anderer Text stehen | Hier ebenfalls | Dies gilt auch hier|
 |:------|:----:| --------:|
-| Basel | Informatik | Basel |
-| Bern | Chemie | Bern |
-| Zürich | Mathematik| Zürich |
+| Linksbündig | Zentriert | Rechtsbündig |
+| Links | Mitte | Rechts |
+| Unten links| Unten Mitte| Untern rechts |
 *kursiv Textstyle* 
 
 **Fett Textstyle**
